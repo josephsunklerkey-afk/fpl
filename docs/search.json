@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "players.html",
+    "href": "players.html",
+    "title": "Player Analysis",
+    "section": "",
+    "text": "First analysis\nOur first study will compare goals with expected goals (xG).\nThis page is being built. The final article will explain the question, data, method, finding and limitations."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Premier League & FPL Statistics\nA personal portfolio of football analysis using R.\nThis site explores clear statistical questions, explains the methods, and discusses the limits of the evidence.\nStart with Player Analysis."
+  }
+]

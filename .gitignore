@@ -40,9 +40,6 @@ vignettes/*.pdf
 .Renviron
 .env
 
-# pkgdown site
-docs/
-
 # translation temp files
 po/*~
 
@@ -60,7 +57,7 @@ rsconnect/
 /data/*.db
 /data/*.sqlite-*
 
-# Quarto build files
+# Quarto working files (the published docs/ directory is tracked)
 /_site/
 /.quarto/
 
