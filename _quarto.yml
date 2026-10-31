@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - players.qmd
+
+website:
+  title: "Premier League Statistics"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: players.qmd
+        text: Player Analysis
+
+format:
+  html:
+    theme: cosmo
+    toc: true

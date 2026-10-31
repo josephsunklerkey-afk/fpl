@@ -1,0 +1,12 @@
+---
+title: "Home"
+---
+
+# Premier League & FPL Statistics
+
+A personal portfolio of football analysis using R.
+
+This site explores clear statistical questions, explains the methods,
+and discusses the limits of the evidence.
+
+Start with [Player Analysis](players.qmd).

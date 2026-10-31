@@ -51,3 +51,21 @@ rsconnect/
 
 # Planning files
 /PLAN/
+
+# Local data and database files
+/data/raw/
+/data/audit/
+/data/*.sqlite
+/data/*.sqlite3
+/data/*.db
+/data/*.sqlite-*
+
+# Quarto build files
+/_site/
+/.quarto/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+**/*.quarto_ipynb

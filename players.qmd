@@ -1,0 +1,10 @@
+---
+title: "Player Analysis"
+---
+
+# First analysis
+
+Our first study will compare goals with expected goals (xG).
+
+This page is being built. The final article will explain the question,
+data, method, finding and limitations.
