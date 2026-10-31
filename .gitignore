@@ -46,7 +46,8 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 
-# Planning files
+# Local assistant instructions and project plans
+/AGENTS.md
 /PLAN/
 
 # Local data and database files
